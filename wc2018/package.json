@@ -1,0 +1,20 @@
+{
+  "name": "wc2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Suranart Niamcome",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "express": "^4.16.3"
+  }
+}
